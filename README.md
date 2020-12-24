@@ -3,7 +3,7 @@
 
 [![](https://img.shields.io/github/issues/jaronetje/PixelPizza-cs?color=green&style=plastic)](https://github.com/jaronetje/PixelPizza/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/jaronetje/PixelPizza-cs?color=red&style=plastic)](https://github.com/jaronetje/PixelPizza/issues?q=is%3Aissue+is%3Aclosed) 
-[![](https://img.shields.io/github/languages/top/jaronetje/PixelPizza-cs?color=yellow&style=plastic)](https://github.com/jaronetje/PixelPizza/search?l=javascript)
+[![](https://img.shields.io/github/languages/top/jaronetje/PixelPizza-cs?color=yellow&style=plastic)](https://github.com/jaronetje/PixelPizza/search?l=c%23)
 ![](https://img.shields.io/github/contributors/jaronetje/PixelPizza-cs?style=plastic) 
 ![](https://img.shields.io/github/last-commit/jaronetje/PixelPizza-cs?style=plastic) 
 ![](https://img.shields.io/github/v/release/jaronetje/PixelPizza-cs?include_prereleases&style=plastic)
