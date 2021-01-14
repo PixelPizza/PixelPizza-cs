@@ -17,21 +17,9 @@ Description
 An alternate version of the pixel pizza bot for if the website is down  
 This is the c# version of the bot
 
-Requirements
+Note
 ---
-If you want to host your own version you will need to make your own Constants.cs file
-```cs
-namespace PixelPizza_cs
-{
-    class Constants
-    {
-        public static string token = "BOT_TOKEN";
-    }
-}
-```
-Or you can use environment variables  
-The environment variables used in this bot are
-* BOT_TOKEN
+You are allowed to make your own version using my code, but keep in mind that if you use this code you will have to configure many things to get it working. **Pixel Pizza is not going to help setting up, because of the amount of time that takes**
 
 Commands
 ---
